@@ -1,2 +1,2 @@
-# Ko-Cat
+# KocCat
 A basic object-oriented java project
